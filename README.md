@@ -1,3 +1,3 @@
 # test
--[]p -->Gruppen
-  -[]b
+- [ ]p -->Gruppen
+  - [ ]b
