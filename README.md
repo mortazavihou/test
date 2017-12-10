@@ -2,7 +2,7 @@
 
 
 
-##Format jedes Klasse (im PDF):
+## Format jedes Klasse (im PDF):
 + Klassenname
   - Extends klasse X (Optional)
     Beschreibung vom Funktionalität diesen Klasse.
