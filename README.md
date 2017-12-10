@@ -2,16 +2,16 @@
 
 
 
-Format jedes Klasse (im PDF):
-+Klassenname
-  -Extends klasse X (Optional)
+##Format jedes Klasse (im PDF):
++ Klassenname
+  - Extends klasse X (Optional)
     Beschreibung vom Funktionalität diesen Klasse.
     
-+Attribute
-  -A:typ  
++ Attribute
+  - A:typ  
   Sichtbarkeit (private/public..)  
   Beschreibung vom Funktionalität  
-  -b:typ  
+  - b:typ  
   Sichtbarkeit (private/public..)  
   Beschreibung vom Funktionalität  
   
@@ -19,17 +19,17 @@ Format jedes Klasse (im PDF):
   .
   .
   
-+Konstruktoren  
-  -(Keine) Oder  
-  -Konstruktorsname(x:type)  
++ Konstruktoren  
+  - (Keine) Oder  
+  - Konstruktorsname(x:type)  
       Sichtbarkeit  
       Beschreibung vom Funktionalität  
       
-+Methoden  
-  -abc(x:typ):typ  
++ Methoden  
+  - abc(x:typ):typ  
   Sichtbarkeit (private/public..)  
   Beschreibung vom Funktionalität  
-  -cde(x:typ):typ  
+  - cde(x:typ):typ  
   Sichtbarkeit (private/public..)  
   Beschreibung vom Funktionalität
   
