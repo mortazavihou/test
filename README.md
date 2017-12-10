@@ -37,4 +37,4 @@
   .
   .
 
-	[Anzeigetext für Link](http://www.sampleurl.com)
+	[Formatieren von Text mit Markdown](https://support.zendesk.com/hc/de/articles/203691016-Formatieren-von-Text-mit-Markdown)
